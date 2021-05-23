@@ -5,7 +5,7 @@ Department of Computer Science
 
 Term Project Proposal
 
-Course: SOFTWARE QUALITY AND TESTING [A] (Summer 2020-21)
+Course: SOFTWARE QUALITY AND TESTING [A] (Spring 2020-21)
 
 Group Members: 4
 
